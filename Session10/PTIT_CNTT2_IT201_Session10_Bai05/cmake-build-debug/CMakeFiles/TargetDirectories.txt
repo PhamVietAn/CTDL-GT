@@ -1,0 +1,3 @@
+C:/Users/phama/OneDrive/Tài liệu/rikkei/ctdl&gt/Session10/PTIT_CNTT2_IT201_Session10_Bai05/cmake-build-debug/CMakeFiles/PTIT_CNTT2_IT201_Session10_Bai05.dir
+C:/Users/phama/OneDrive/Tài liệu/rikkei/ctdl&gt/Session10/PTIT_CNTT2_IT201_Session10_Bai05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/phama/OneDrive/Tài liệu/rikkei/ctdl&gt/Session10/PTIT_CNTT2_IT201_Session10_Bai05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
