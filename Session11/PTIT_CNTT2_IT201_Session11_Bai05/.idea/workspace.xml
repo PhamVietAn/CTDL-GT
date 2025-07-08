@@ -29,42 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a480b1e-47ab-4c5a-b9a7-3228b24ab142" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai02/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai03/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai04/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai04/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai04/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai04/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai05/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai06/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai06/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai06/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai06/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session11_Bai06/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session12_Bai01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session12_Bai01/.idea/PTIT_CNTT2_IT201_Session12_Bai01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session12_Bai01/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session12_Bai01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session12_Bai01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12/PTIT_CNTT2_IT201_Session12_Bai01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12PTIT_CNTT2_IT201_Session11_Bai02/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12PTIT_CNTT2_IT201_Session11_Bai02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12PTIT_CNTT2_IT201_Session11_Bai02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12PTIT_CNTT2_IT201_Session11_Bai02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session12PTIT_CNTT2_IT201_Session11_Bai02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +112,8 @@
       <updated>1751804783642</updated>
       <workItem from="1751804785032" duration="1228000" />
       <workItem from="1751848553200" duration="1144000" />
-      <workItem from="1751854815038" duration="3000" />
+      <workItem from="1751854815038" duration="608000" />
+      <workItem from="1751937343832" duration="70000" />
     </task>
     <servers />
   </component>
