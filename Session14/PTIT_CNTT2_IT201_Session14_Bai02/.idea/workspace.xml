@@ -19,7 +19,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="PTIT_CNTT2_IT201_Session13_Bai09" targetName="PTIT_CNTT2_IT201_Session13_Bai09" />
+      <config projectName="PTIT_CNTT2_IT201_Session14_Bai02" targetName="PTIT_CNTT2_IT201_Session14_Bai02" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -28,7 +28,21 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="975329f8-73f5-44af-a8e9-16225b04a911" name="Changes" comment="" />
+    <list default="true" id="e6cb120d-c489-4846-b976-0a5eadd52682" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session14_Bai01/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session14_Bai01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session14_Bai01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session14_Bai01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session14_Bai01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session13/PTIT_CNTT2_IT201_Session13_Bai09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session13/PTIT_CNTT2_IT201_Session13_Bai09/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +62,9 @@
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2zamckTWeyJYwkBwWXW3GNJ0y3t" />
+  <component name="ProjectId" id="2zcP1Ocg5MuPLDN7yUECd6JWCLz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,19 +91,19 @@
   }
 }</component>
   <component name="RunManager" selected="C/C++ File.main.c">
-    <configuration name="PTIT_CNTT2_IT201_Session13_Bai09" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session13_Bai09" TARGET_NAME="PTIT_CNTT2_IT201_Session13_Bai09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session13_Bai09" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session13_Bai09">
+    <configuration name="PTIT_CNTT2_IT201_Session14_Bai02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session14_Bai02" TARGET_NAME="PTIT_CNTT2_IT201_Session14_Bai02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session14_Bai02" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session14_Bai02">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session13_Bai09" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session14_Bai02" TARGET_NAME="main.c" CONFIG_NAME="main.c">
       <option name="sourceFile" value="main.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session13_Bai09" />
+      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session14_Bai02" />
       <item itemvalue="C/C++ File.main.c" />
     </list>
     <recent_temporary>
@@ -100,13 +114,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="975329f8-73f5-44af-a8e9-16225b04a911" name="Changes" comment="" />
-      <created>1751977639116</created>
+      <changelist id="e6cb120d-c489-4846-b976-0a5eadd52682" name="Changes" comment="" />
+      <created>1752027172918</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1751977639116</updated>
-      <workItem from="1751977640627" duration="951000" />
-      <workItem from="1752026395046" duration="58000" />
+      <updated>1752027172918</updated>
+      <workItem from="1752027174607" duration="1237000" />
+      <workItem from="1752028489636" duration="31000" />
     </task>
     <servers />
   </component>
