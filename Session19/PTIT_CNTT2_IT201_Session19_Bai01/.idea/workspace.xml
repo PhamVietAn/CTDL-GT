@@ -8,9 +8,9 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -19,7 +19,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="PTIT_CNTT2_IT201_Session16_Bai05" targetName="PTIT_CNTT2_IT201_Session16_Bai05" />
+      <config projectName="PTIT_CNTT2_IT201_Session19_Bai01" targetName="PTIT_CNTT2_IT201_Session19_Bai01" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -28,9 +28,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2384f72-597a-4e10-8b3e-5f28b9497fa8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session16_Bai07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session16_Bai07/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="18ef2407-e136-4a80-95af-ed89ef7a137c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Session16/PTIT_CNTT2_IT201_Session16_Bai05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session16/PTIT_CNTT2_IT201_Session16_Bai05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session16/PTIT_CNTT2_IT201_Session16_Bai07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session16/PTIT_CNTT2_IT201_Session16_Bai07/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +50,10 @@
     <option name="minorVersion" value="1.2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2zp0ewfWlsj5gsAjuh1Ko6u4liG" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="30AJhIZH8YPNUvCxaZBMdV5HROH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,12 +80,17 @@
   }
 }]]></component>
   <component name="RunManager" selected="C/C++ File.main.c">
-    <configuration name="PTIT_CNTT2_IT201_Session16_Bai05" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session16_Bai05" TARGET_NAME="PTIT_CNTT2_IT201_Session16_Bai05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session16_Bai05" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session16_Bai05">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PTIT_CNTT2_IT201_Session19_Bai01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session19_Bai01" TARGET_NAME="PTIT_CNTT2_IT201_Session19_Bai01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session19_Bai01" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session19_Bai01">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session16_Bai05" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session19_Bai01" TARGET_NAME="main.c" CONFIG_NAME="main.c">
       <option name="sourceFile" value="main.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
@@ -93,7 +98,7 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.main.c" />
-      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session16_Bai05" />
+      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session19_Bai01" />
     </list>
     <recent_temporary>
       <list>
@@ -103,14 +108,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d2384f72-597a-4e10-8b3e-5f28b9497fa8" name="Changes" comment="" />
-      <created>1752412805429</created>
+      <changelist id="18ef2407-e136-4a80-95af-ed89ef7a137c" name="Changes" comment="" />
+      <created>1753064561189</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1752412805429</updated>
-      <workItem from="1752412806754" duration="200000" />
-      <workItem from="1752428003576" duration="121000" />
-      <workItem from="1752451639293" duration="707000" />
+      <updated>1753064561189</updated>
+      <workItem from="1753064562670" duration="1261000" />
     </task>
     <servers />
   </component>
