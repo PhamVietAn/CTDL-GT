@@ -19,7 +19,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="PTIT_CNTT2_IT201_Session19_Bai09" targetName="PTIT_CNTT2_IT201_Session19_Bai09" />
+      <config projectName="PTIT_CNTT2_IT201_Session20_Bai04" targetName="PTIT_CNTT2_IT201_Session20_Bai04" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -28,8 +28,30 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="139ae14b-d610-4107-811f-5494236755ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d0d990c5-6568-4d36-94aa-c8d774279133" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai02/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai03/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session19_Bai03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session20_Bai01/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session20_Bai01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session20_Bai05/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session20_Bai05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session20_Bai05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session20_Bai05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session20_Bai05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session19/PTIT_CNTT2_IT201_Session19_Bai09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session19/PTIT_CNTT2_IT201_Session19_Bai09/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +72,9 @@
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="30BdM8SHnEXwwa5hXfG8vtjMVza" />
+  <component name="ProjectId" id="30D0B14ufy13g0o4HsLBswtjWIF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,25 +92,29 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager" selected="C/C++ File.main.c">
-    <configuration name="PTIT_CNTT2_IT201_Session19_Bai09" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session19_Bai09" TARGET_NAME="PTIT_CNTT2_IT201_Session19_Bai09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session19_Bai09" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session19_Bai09">
+    <configuration name="PTIT_CNTT2_IT201_Session20_Bai04" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session20_Bai04" TARGET_NAME="PTIT_CNTT2_IT201_Session20_Bai04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session20_Bai04" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session20_Bai04">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session19_Bai09" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session20_Bai04" TARGET_NAME="main.c" CONFIG_NAME="main.c">
       <option name="sourceFile" value="main.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session19_Bai09" />
       <item itemvalue="C/C++ File.main.c" />
+      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session20_Bai04" />
     </list>
     <recent_temporary>
       <list>
@@ -98,13 +124,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="139ae14b-d610-4107-811f-5494236755ef" name="Changes" comment="" />
-      <created>1753104848719</created>
+      <changelist id="d0d990c5-6568-4d36-94aa-c8d774279133" name="Changes" comment="" />
+      <created>1753146696976</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1753104848719</updated>
-      <workItem from="1753104850366" duration="42000" />
-      <workItem from="1753142918081" duration="34000" />
+      <updated>1753146696976</updated>
+      <workItem from="1753146698848" duration="855000" />
+      <workItem from="1753149192219" duration="359000" />
     </task>
     <servers />
   </component>
