@@ -8,9 +8,9 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -19,7 +19,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="PTIT_CNTT2_IT201_Session20_Bai04" targetName="PTIT_CNTT2_IT201_Session20_Bai04" />
+      <config projectName="PTIT_CNTT2_IT201_Session22_Bai02" targetName="PTIT_CNTT2_IT201_Session22_Bai02" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -28,8 +28,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d990c5-6568-4d36-94aa-c8d774279133" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0fa7299b-6ccf-4977-9946-d60b95bfb96d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session22_Bai01/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session22_Bai01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session22_Bai01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session22_Bai01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PTIT_CNTT2_IT201_Session22_Bai01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session20/PTIT_CNTT2_IT201_Session20_Bai04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session20/PTIT_CNTT2_IT201_Session20_Bai04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session21/luyentap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session21/luyentap/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +55,10 @@
     <option name="minorVersion" value="1.2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="30D0B14ufy13g0o4HsLBswtjWIF" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="30JS8juXVvjgJcnSIWoFkMcrVuv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,25 +81,29 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected="C/C++ File.main.c">
-    <configuration name="PTIT_CNTT2_IT201_Session20_Bai04" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session20_Bai04" TARGET_NAME="PTIT_CNTT2_IT201_Session20_Bai04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session20_Bai04" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session20_Bai04">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PTIT_CNTT2_IT201_Session22_Bai02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session22_Bai02" TARGET_NAME="PTIT_CNTT2_IT201_Session22_Bai02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PTIT_CNTT2_IT201_Session22_Bai02" RUN_TARGET_NAME="PTIT_CNTT2_IT201_Session22_Bai02">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session20_Bai04" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PTIT_CNTT2_IT201_Session22_Bai02" TARGET_NAME="main.c" CONFIG_NAME="main.c">
       <option name="sourceFile" value="main.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session20_Bai04" />
       <item itemvalue="C/C++ File.main.c" />
+      <item itemvalue="CMake Application.PTIT_CNTT2_IT201_Session22_Bai02" />
     </list>
     <recent_temporary>
       <list>
@@ -104,24 +113,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d0d990c5-6568-4d36-94aa-c8d774279133" name="Changes" comment="" />
-      <created>1753146696976</created>
+      <changelist id="0fa7299b-6ccf-4977-9946-d60b95bfb96d" name="Changes" comment="" />
+      <created>1753344024643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1753146696976</updated>
-      <workItem from="1753146698848" duration="855000" />
-      <workItem from="1753149192219" duration="359000" />
-      <workItem from="1753149816296" duration="49000" />
-      <workItem from="1753233598181" duration="65000" />
-      <workItem from="1753342602696" duration="138000" />
+      <updated>1753344024643</updated>
+      <workItem from="1753344026119" duration="806000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
